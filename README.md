@@ -27,8 +27,11 @@ Revenue
 
 📈 Key Analysis Performed
 Monthly Sales Trend - Identifies revenue patterns across six months.
+
 Category Performance - Shows which product categories generate the highest revenue.
+
 Store Comparison - Identifies best performing store locations.
+
 Percentage Contribution - Shows revenue contribution distribution across segments.
 
 💡 Business Value
